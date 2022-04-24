@@ -1,7 +1,6 @@
 ## cron-apt
 
-[![CI](https://github.com/Oefenweb/ansible-cron-apt/workflows/CI/badge.svg)](https://github.com/Oefenweb/ansible-cron-apt/actions?query=workflow%3ACI)
-[![Ansible Galaxy](http://img.shields.io/badge/ansible--galaxy-cron--apt-blue.svg)](https://galaxy.ansible.com/Oefenweb/cron_apt)
+[![Ansible Galaxy](http://img.shields.io/badge/ansible--galaxy-cronapt-blue.svg)](https://galaxy.ansible.com/neoloc/cronapt)
 
 Set up cron-apt in Debian-like systems.
 
@@ -36,7 +35,5 @@ MIT
 #### Author Information
 
 Mischa ter Smitten
+Updated by neoloc
 
-#### Feedback, bug-reports, requests, ...
-
-Are [welcome](https://github.com/Oefenweb/ansible-cron-apt/issues)!

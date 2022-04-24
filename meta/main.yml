@@ -1,10 +1,9 @@
 # meta file
 ---
 galaxy_info:
-  namespace: oefenweb
-  role_name: cron_apt
-  author: Mischa ter Smitten
-  company: Oefenweb.nl B.V.
+  namespace: neoloc
+  role_name: cronapt
+  author: neoloc
   description: Set up cron-apt in Debian-like systems
   license: MIT
   min_ansible_version: 2.9.0

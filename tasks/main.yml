@@ -10,6 +10,7 @@
     - configuration
     - cron-apt
     - cron-apt-install
+  when: cron_apt_configure
 
 - name: update configuration file
   template:
@@ -22,3 +23,4 @@
     - configuration
     - cron-apt
     - cron-apt-configuration
+  when: cron_apt_configure

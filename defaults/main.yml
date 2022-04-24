@@ -1,4 +1,5 @@
 # defaults file
 ---
+cron_apt_configure: false
 cron_apt_mailto: root
 cron_apt_mailon: upgrade
